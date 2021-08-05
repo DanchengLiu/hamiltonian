@@ -1,3 +1,6 @@
 This is a partial implementation of hamiltonian path problem. The problem is not solved.
 Please refer to the discussion section of the algorithm for future information.
+Edit:
+I came across a paper on ArXiv in Aug 4th (https://arxiv.org/ftp/arxiv/papers/2105/2105.07608.pdf). 
+I have a modified algorithm (still not working) based on the hologram idea in the paper, and I included my thoughts on the paper in discussion section of the modified.ipynb file.
 If you are interested in discussing my algorithm, please leave a note on github.
